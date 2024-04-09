@@ -280,9 +280,13 @@ MonoBehaviour:
   partPrefab: {fileID: 5892246342328836889, guid: aee7839d22f26ee468772a653a5280db, type: 3}
   parentObject: {fileID: 790057065}
   length: 5
-  partDistance: 0.11
+  dims:
+    x: 1
+    y: 1
+  partDistance: 0.15
   reset: 0
-  spawn: 0
+  spawnRope: 0
+  spawnCloth: 0
   snapFirst: 1
   snapLast: 1
 --- !u!4 &917792207

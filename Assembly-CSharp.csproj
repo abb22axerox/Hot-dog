@@ -698,6 +698,9 @@
     <Reference Include="Unity.VisualScripting.Shared.Editor">
         <HintPath>C:\Programmering\Unity\rope-cloth\Hot dog\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Mathematics">
+        <HintPath>C:\Programmering\Unity\rope-cloth\Hot dog\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>C:\Programmering\Unity\rope-cloth\Hot dog\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
@@ -730,6 +733,9 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
         <HintPath>C:\Programmering\Unity\rope-cloth\Hot dog\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+        <HintPath>C:\Programmering\Unity\rope-cloth\Hot dog\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
